@@ -1,5 +1,4 @@
 import { ThemeProvider } from '@emotion/react';
-import './App.css';
 import { defaultTheme } from './themes/default'
 
 import { Viewer as InvoiceViewer } from './features/Invoice/Viewer';
