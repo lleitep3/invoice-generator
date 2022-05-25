@@ -14,7 +14,6 @@ const {
   CompanyName,
 } = Styles
 
-
 export const Viewer = ({ invoice }: ViewerProps) => {
 
   return (<InvoiceContainer>

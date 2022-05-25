@@ -17,7 +17,7 @@ export type InvoiceType = {
   },
   customer: {
     name: string,
-    observation: string,
+    observation?: string,
     phone: string,
     email: string,
     address: string,
